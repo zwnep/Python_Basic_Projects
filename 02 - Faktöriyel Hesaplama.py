@@ -1,9 +1,12 @@
-def faktöriyel(x):
-    if x==0:
-        return 1
-    if x==1:
+def factorial(x):
+    if x < 0:
+        return 'Not defined'
+    elif x==0:
         return 1
     else:
-        return x*faktöriyel(x-1)        
+        factorial = 1
+        for i in range(1, x+1):
+            factorial = factorial * i
+        return factorial
 
-print(faktöriyel(5))
+print(factorial(5))
