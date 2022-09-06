@@ -1,6 +1,6 @@
 # Python_Basic_Projects
 
-#### tiny projects i made with python
+#### "Tiny projects i made with python"
 
 > Boş zamanlarımda hobi olarak python da yazdığım mini projeler bunlar ⭐️
 
