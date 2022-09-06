@@ -1,5 +1,6 @@
 #Microsoft Interview Question!
-# Parametre olarak bir tamsayı listesi/arrayi (lst) alan bir fonksiyon yazın (fonksiyonun adı validMountainArray olsun). Bu fonksiyonun görevi lst tamsayı listesi eğer geçerli bir mountain array ise true değerini döndürsün aksi halde false değerini döndürsün.
+# Parametre olarak bir tamsayı listesi/arrayi (lst) alan bir fonksiyon yazın (fonksiyonun adı validMountainArray olsun). 
+# Bu fonksiyonun görevi lst tamsayı listesi eğer geçerli bir mountain array ise true değerini döndürsün aksi halde false değerini döndürsün.
 
 # Yani tekrar etmek gerekirse liste içindeki sayılar önce artacak daha sonra azalacaklardır.
 
