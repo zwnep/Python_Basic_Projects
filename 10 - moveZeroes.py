@@ -1,5 +1,6 @@
 #Facebook Interview Question!
-# Parametre olarak bir tamsayı dizisi alan bir fonksiyon yazın (fonksiyonun adi moveZeroes olsun). Bu fonksiyonun görevi bu tamsayı dizisindeki sıfır olmayan öğelerin göreli sırasını korurken, tüm 0'ları dizinin sonuna taşısın.
+# Parametre olarak bir tamsayı dizisi alan bir fonksiyon yazın (fonksiyonun adi moveZeroes olsun). 
+#Bu fonksiyonun görevi bu tamsayı dizisindeki sıfır olmayan öğelerin göreli sırasını korurken, tüm 0'ları dizinin sonuna taşısın.
 
 # Not: Bunu dizinin bir kopyasını oluşturmadan, aynı dizi üzerinde yapmanız gerekmektedir.
 
