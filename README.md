@@ -8,7 +8,7 @@
 
 - Sisteminizde Python3 kurulu olması lazım.
 
-- Kodları Visual Studio Code Editorünü kullanarak yazdım.
+- Kodları Visual Studio Code Editörünü kullanarak yazdım.
 
 - Kodları Windowsta hiç denemedim ne sonuçlar vereceğini bilmiyorum, bir hata varsa pull request açabilirsiniz.
 
