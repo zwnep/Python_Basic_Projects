@@ -4,7 +4,7 @@
 
 > Boş zamanlarımda hobi olarak python da yazdığım mini projeler bunlar ⭐️
 
-> Dokümantasyon geliştirme aşamasindadir, her türlü yardimlariniz kabul edilir. 👍🏻
+> Dokümantasyon geliştirme aşamasindadır, her türlü yardimlariniz kabul edilir. 👍🏻
 
 - Sisteminizde Python3 kurulu olması lazım.
 
